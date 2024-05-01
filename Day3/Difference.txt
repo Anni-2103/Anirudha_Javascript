@@ -1,0 +1,15 @@
+Differece between Es5 and Es6
+
+1.
+  - variable were used to declared using "var" in Es5
+  - variables are declared using "let" and "const"
+
+2.
+  - arrow Fucntions are used in Es6 "=>"
+
+3.
+  -concatenation    `This is, ${name}`
+
+4.
+  - spread operator 
+    const expense4 = {...expense1};
