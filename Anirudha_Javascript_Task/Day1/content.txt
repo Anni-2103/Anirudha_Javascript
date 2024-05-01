@@ -1,0 +1,24 @@
+1. Conceptualize an expense tracker and create a plan how you will build that application.
+ - we have to look for the basic features for that will be required to create an expense tracker i.e expense, budget ,report, etc.
+ - visualize or just create a layout of user interface on a note book.
+ - pick the technologies for frontend and backend.
+
+ 2. What are the entities involved in this design?
+  - core entities could be as followed:
+    - User
+    - Expense
+    - Category
+
+3. What are the possible properties of each object?
+    - userId
+    - expenseId
+    - username
+    - password
+    - amount
+    - description
+    - date
+    - amount
+
+Intent to learn web development?
+- I really found my interest in coding and computers also i wanna make a living out it. 
+- I would love to create interactive websites.
